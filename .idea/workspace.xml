@@ -40,38 +40,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DemoTrack.executor": "Run",
-    "Application.Ex1 (1).executor": "Run",
-    "Application.Ex1 (2).executor": "Run",
-    "Application.Ex1 (3).executor": "Run",
-    "Application.Ex1 (4).executor": "Run",
-    "Application.Ex1 (5).executor": "Run",
-    "Application.Ex1.executor": "Run",
-    "Application.Ex2.executor": "Run",
-    "Application.Ex3.executor": "Run",
-    "Application.Semana02.Ex1.executor": "Run",
-    "Application.Semana03.Ex1.executor": "Run",
-    "Application.Semana03.Ex2.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DemoTrack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex1 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex1 (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex1 (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex1 (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Semana02.Ex1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Semana03.Ex1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Semana03.Ex2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Semana03.Ex2">
+  <component name="RunManager" selected="Application.Mesa">
     <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Semana02.Ex2" />
       <module name="pcd" />
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Semana02.Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana02.Ex1" />
-      <module name="pcd" />
+    <configuration name="Mesa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Semana04.Mesa" />
+      <module name="pcd2025" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semana02.*" />
+          <option name="PATTERN" value="src.Semana04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,7 +126,7 @@
     </configuration>
     <configuration name="Semana03.Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Semana03.Ex2" />
-      <module name="pcd" />
+      <module name="pcd2025" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Semana03.*" />
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mesa" />
         <item itemvalue="Application.Semana03.Ex2" />
         <item itemvalue="Application.Semana03.Ex1" />
         <item itemvalue="Application.Ex3" />
         <item itemvalue="Application.Ex2" />
-        <item itemvalue="Application.Semana02.Ex1" />
       </list>
     </recent_temporary>
   </component>
