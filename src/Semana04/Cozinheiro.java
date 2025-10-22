@@ -1,4 +1,4 @@
-package src.Semana04;
+package Semana04;
 
 public class Cozinheiro extends Thread {
     private Mesa mesa;

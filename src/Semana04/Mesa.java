@@ -1,4 +1,4 @@
-package src.Semana04;
+package Semana04;
 
 import java.util.LinkedList;
 import java.util.List;
